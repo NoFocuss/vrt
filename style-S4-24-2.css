@@ -3,14 +3,13 @@ body {
   color: white;
 }
 
-#header {
+#vrtitle {
   font-family: "ethnocentric";
   font-size: 36px;
   color: orange;
   background-color: #303030;
 }
-#header > div.head{
-  font-size: 16px;
-  font-family: "Arial Bold", sans-serif;
+#vrtitle > div{
+
   background-color: #303030;
 }
